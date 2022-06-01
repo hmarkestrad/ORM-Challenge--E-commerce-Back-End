@@ -52,6 +52,10 @@ This application is covered by the MIT license.
 ![badge](https://img.shields.io/badge/-html5-blue)
 ![badge](https://img.shields.io/badge/-css-blue)
   
+## Screen Shot
+
+![ORM Challenge: E-commerce Back End - ESTRADA](https://github.com/hmarkestrad/ORM-Challenge-E-commerce-Back-End/blob/b5a69e66dc9d6797f7ea0d0e073f7301ea89f0e3/assets/images/13-orm-homework-demo-01.jpg)
+  
 ## Installation
 Run the following command at the root of your project: npm init | npm install inquirer<br>
   
