@@ -1,21 +1,15 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "orm-ecommerce-back-end",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1 align=\"center\">ORM Challenge: E-commerce Back End</h1>",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:jpd61/e-commerce-backend.git"
-  },
   "keywords": [],
-  "author": "Joseph DeWoody",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
@@ -24,5 +18,14 @@
     "express": "^4.17.1",
     "mysql2": "^2.1.0",
     "sequelize": "^5.21.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmarkestrad/ORM-Challenge-E-commerce-Back-End.git"
+  },
+  "author": "H. Mark Estrada",
+  "bugs": {
+    "url": "https://github.com/hmarkestrad/ORM-Challenge-E-commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/hmarkestrad/ORM-Challenge-E-commerce-Back-End#readme"
 }
