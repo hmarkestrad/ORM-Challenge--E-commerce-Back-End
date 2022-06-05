@@ -1,10 +1,10 @@
 <h1 align="center">ORM Challenge: E-commerce Back End</h1>
 
 <p align="center">
-<img src="https://img.shields.io/github/repo-size/hmarkestrad/Professional-README-Generator" />
-<img src="https://img.shields.io/github/languages/top/hmarkestrad/Professional-README-Generator"  />
-<img src="https://img.shields.io/github/issues/hmarkestrad/Professional-README-Generator" />
-<img src="https://img.shields.io/github/last-commit/hmarkestrad/Professional-README-Generator" >
+<img src="https://img.shields.io/github/repo-size/hmarkestrad/ORM-Challenge-E-commerce-Back-End" />
+<img src="https://img.shields.io/github/languages/top/hmarkestrad/ORM-Challenge-E-commerce-Back-End"  />
+<img src="https://img.shields.io/github/issues/hmarkestrad/ORM-Challenge-E-commerce-Back-End" />
+<img src="https://img.shields.io/github/last-commit/hmarkestrad/ORM-Challenge-E-commerce-Back-End" >
 </p>
   
 ## Table of Contents
