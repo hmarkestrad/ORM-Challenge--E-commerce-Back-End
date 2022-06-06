@@ -54,7 +54,9 @@ This application is covered by the MIT license.
   
 ## Screen Shot
 
-![ORM Challenge: E-commerce Back End - ESTRADA](assets/images/screenshot.png)
+![ORM Challenge: E-commerce Back End - ESTRADA](assets/images/screenshot.png)<br>
+Walkthrough: https://drive.google.com/file/d/1ZGryXq5BP8kvlUx1pYPuXlvklHrXOOql/view?usp=sharing (Links to an external site.)<br>
+GitHub: https://github.com/hmarkestrad/ORM-Challenge-E-commerce-Back-End.git<br>
   
 ## Installation
 Run the following command at the root of your project: `npm init` | `npm start`<br>
